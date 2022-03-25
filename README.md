@@ -14,6 +14,24 @@
 npm install retina-sprite-generator
 ```
 
+## Usage
+
+```bash
+rs-gen
+```
+Or
+```bash
+retina-sprite
+```
+Or
+```bash
+retina
+```
+Or
+```bash
+retina-sprite-generator
+```
+
 [downloads-img]:https://img.shields.io/npm/dt/retina-sprite-generator
 [downloads-url]:https://www.npmtrends.com/retina-sprite-generator
 [npm-img]:https://img.shields.io/npm/v/retina-sprite-generator
