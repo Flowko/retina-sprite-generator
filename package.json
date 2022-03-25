@@ -1,6 +1,6 @@
 {
   "name": "retina-sprite-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to generate generate quality retina and standard image sprites, CSS, and/or JSON, using facetstudios Retina Sprite, CSS and JSON Generator",
   "main": "./dist/index.js",
   "type": "module",
