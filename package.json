@@ -14,8 +14,18 @@
     "type": "git",
     "url": "git+https://github.com/Flowko/retina-sprite-generator.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "retina",
+    "sprite",
+    "generator",
+    "icons",
+    "retina sprite generator"
+  ],
+  "author": {
+    "name": "Younes El Barrad",
+    "email": "younesbarraddev@gmail.com",
+    "url": "https://github.com/Flowko"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Flowko/retina-sprite-generator/issues"
